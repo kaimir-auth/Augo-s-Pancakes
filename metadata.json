@@ -1,0 +1,8 @@
+{
+  "name": "3D Pancake Sorting Puzzle",
+  "description": "An interactive 3D pancake sorting game with realistic physics, spatula animations, optimal solver hints, custom challenge levels, and diner aesthetic.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
